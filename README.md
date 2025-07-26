@@ -3,7 +3,18 @@
 The Poll Management front-end interface for the Polling System Web App, where users can participate in polls and admins can manage them. Built using React.js and Tailwind CSS, it connects to a secure backend with JWT authentication.
 
 ---
+## Deployed Links
 
+- 👉 [Frontend Live URL](https://password-reset-flow-client-ui.netlify.app)
+- 🌐 [Backend API](https://password-reset-flow-server-0ne8.onrender.com)
+  
+----
+
+## GitHub Repositories
+
+[Backend GitHub Repo](https://github.com/nandhinigurumoorthyy/Polling-System-Backend.git)
+
+-----
 ## 🚀Features
 
 ### 🧑‍💼 **User Features**
