@@ -5,8 +5,8 @@ The Poll Management front-end interface for the Polling System Web App, where us
 ---
 ## Deployed Links
 
-- 👉 [Frontend Live URL](https://password-reset-flow-client-ui.netlify.app)
-- 🌐 [Backend API](https://password-reset-flow-server-0ne8.onrender.com)
+- 👉 [Frontend Live URL](https://polling-system-ui.netlify.app/)
+- 🌐 [Backend API](https://polling-system-backend-8q7m.onrender.com)
   
 ----
 
