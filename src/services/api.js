@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://0.0.0.0:10000', 
+  baseURL: 'https://polling-system-backend-8q7m.onrender.com', 
 });
 
 api.interceptors.request.use((config) => {
